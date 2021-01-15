@@ -4,4 +4,4 @@ This tutorial is prepared for drawing a street map of any city in the world in R
 
 I prepare a map for Ankara, which is the capital city of Turkey. Here what I did :)) 
 
-![Ankara Street Map](https://github.com/ozancanozdemir/streetmapexample/ankara?raw=true)
+![Ankara Street Map](https://github.com/ozancanozdemir/streetmapexample/blob/main/ankara.png)
